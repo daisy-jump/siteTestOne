@@ -10,7 +10,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  fart
   title: 'Blargum Howych',
   tagline: 'i love egg, but at the end of the day, its night',
   favicon: 'img/favicon.ico',
